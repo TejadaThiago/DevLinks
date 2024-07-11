@@ -132,6 +132,12 @@ ul li a {
   transition: background 0.2s;
 }
 
+#observations{
+  font-style: italic;
+  font-size: small;
+  color: var(--stroke-color);
+}
+
 /* pseudo-selector */
 ul li a:hover {
   background: var(--surface-color-hover);
